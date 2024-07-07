@@ -1,0 +1,7 @@
+C:\Users\Hp\OneDrive\Documentos\RESCATE_PARALELO\Herencia\Telefonos-master\GUIAH5\bin\Debug\GUIAH5.exe.config
+C:\Users\Hp\OneDrive\Documentos\RESCATE_PARALELO\Herencia\Telefonos-master\GUIAH5\bin\Debug\GUIAH5.exe
+C:\Users\Hp\OneDrive\Documentos\RESCATE_PARALELO\Herencia\Telefonos-master\GUIAH5\bin\Debug\GUIAH5.pdb
+C:\Users\Hp\OneDrive\Documentos\RESCATE_PARALELO\Herencia\Telefonos-master\GUIAH5\obj\Debug\HERENCIA.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Documentos\RESCATE_PARALELO\Herencia\Telefonos-master\GUIAH5\obj\Debug\HERENCIA.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Documentos\RESCATE_PARALELO\Herencia\Telefonos-master\GUIAH5\obj\Debug\GUIAH5.exe
+C:\Users\Hp\OneDrive\Documentos\RESCATE_PARALELO\Herencia\Telefonos-master\GUIAH5\obj\Debug\GUIAH5.pdb
